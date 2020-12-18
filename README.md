@@ -15,3 +15,5 @@ Rio de Janeiro - https://github.com/jkkersey/Rio-Mapping-Data
 Mumbai - https://github.com/jkkersey/Mumbai-Mapping-Data
 
 Hyderabad - https://github.com/jkkersey/Hyderabad-Mapping-Data
+
+Buenos Aires, Guatemala City, Tegucigalpa, Asuncion, Lima, Montevideo - https://github.com/jkkersey/Argentina-Guatemala-Honduras-Paraguay-Peru-Uruguay-Mapping-Data/
